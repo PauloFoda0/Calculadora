@@ -1,0 +1,10 @@
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\bin\Debug\TrabalhoBonilha.exe.config
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\bin\Debug\TrabalhoBonilha.exe
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\bin\Debug\TrabalhoBonilha.pdb
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\obj\Debug\TrabalhoBonilha.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\obj\Debug\TrabalhoBonilha.Form1.resources
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\obj\Debug\TrabalhoBonilha.Properties.Resources.resources
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\obj\Debug\TrabalhoBonilha.csproj.GenerateResource.Cache
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\obj\Debug\TrabalhoBonilha.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\obj\Debug\TrabalhoBonilha.exe
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Introdução a Programação\TrabalhoBonilha\TrabalhoBonilha\obj\Debug\TrabalhoBonilha.pdb
